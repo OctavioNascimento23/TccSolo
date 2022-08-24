@@ -20,24 +20,24 @@
 	<div id="wrapper">
 		<div class="wrapper-holder">
 			<header id="header">
-				<span class="logo"><a href="index.html">Elegantic</a></span>
+				<span class="logo"><a href="index.php">Elegantic</a></span>
 				<ul class="tools-nav tools-nav-mobile">
-					<li class="items"><a href="cart.html"><span>2</span> Items, <strong>$599.00</strong></a></li>
+					<li class="items"><a href="cart.php"><span>2</span> Items, <strong>$599.00</strong></a></li>
 					<li class="login"><a href="#">Login</a> / <a href="#">register</a></li>
 				</ul>
 				<a class="menu_trigger" href="#">menu</a>
 				<div class="bar-holder">
 					<nav id="nav">
 						<ul>
-							<li><a href="products.html">Suits</a></li>
-							<li><a href="products.html">Coats</a></li>
-							<li><a href="products.html">Jackets</a></li>
-							<li><a href="products.html">Shirts</a></li>
-							<li><a href="products.html">Shoes</a></li>
+							<li><a href="products.php">Suits</a></li>
+							<li><a href="products.php">Coats</a></li>
+							<li><a href="products.php">Jackets</a></li>
+							<li><a href="products.php">Shirts</a></li>
+							<li><a href="products.php">Shoes</a></li>
 						</ul>
 					</nav>
 					<ul class="tools-nav">
-						<li class="items"><a href="cart.html"><span>2</span> Items, <strong>$599.00</strong></a></li>
+						<li class="items"><a href="cart.php"><span>2</span> Items, <strong>$599.00</strong></a></li>
 						<li class="login"><a href="#">Login</a> / <a href="#">register</a></li>
 					</ul>
 				</div>
@@ -45,7 +45,7 @@
 			<section class="bar">
 				<div class="bar-frame">
 					<ul class="breadcrumbs">
-						<li><a href="index.html">Home</a></li>
+						<li><a href="index.php">Home</a></li>
 						<li>Jackets</li>
 					</ul>
 				</div>
@@ -85,8 +85,8 @@
 								<img src="images/img-item-01.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>
@@ -101,8 +101,8 @@
 								<img src="images/img-item-02.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>
@@ -117,8 +117,8 @@
 								<img src="images/img-item-03.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>
@@ -133,8 +133,8 @@
 								<img src="images/img-item-04.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>
@@ -149,8 +149,8 @@
 								<img src="images/img-item-05.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>
@@ -165,8 +165,8 @@
 								<img src="images/img-item-06.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>
@@ -181,8 +181,8 @@
 								<img src="images/img-item-07.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>
@@ -197,8 +197,8 @@
 								<img src="images/img-item-08.jpg"  alt="" />
 								<div class="hover">
 									<div class="item-content">
-										<a href="cart.html" class="btn white normal">Add to cart</a>
-										<a href="singleproduct.html" class="btn white normal">See details</a>
+										<a href="cart.php" class="btn white normal">Add to cart</a>
+										<a href="singleproduct.php" class="btn white normal">See details</a>
 									</div>
 									<span class="bg"></span>
 								</div>

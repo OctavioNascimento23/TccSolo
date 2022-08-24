@@ -20,24 +20,24 @@
 	<div id="wrapper">
 		<div class="wrapper-holder">
 			<header id="header">
-				<span class="logo"><a href="index.html">Elegantic</a></span>
+				<span class="logo"><a href="index.php">Elegantic</a></span>
 				<ul class="tools-nav tools-nav-mobile">
-					<li class="items"><a href="cart.html"><span>2</span> Items, <strong>$599.00</strong></a></li>
+					<li class="items"><a href="cart.php"><span>2</span> Items, <strong>$599.00</strong></a></li>
 					<li class="login"><a href="#">Login</a> / <a href="#">register</a></li>
 				</ul>
 				<a class="menu_trigger" href="#">menu</a>
 				<div class="bar-holder">
 					<nav id="nav">
 						<ul>
-							<li><a href="products.html">Suits</a></li>
-							<li><a href="products.html">Coats</a></li>
-							<li><a href="products.html">Jackets</a></li>
-							<li><a href="products.html">Shirts</a></li>
-							<li><a href="products.html">Shoes</a></li>
+							<li><a href="products.php">Suits</a></li>
+							<li><a href="products.php">Coats</a></li>
+							<li><a href="products.php">Jackets</a></li>
+							<li><a href="products.php">Shirts</a></li>
+							<li><a href="products.php">Shoes</a></li>
 						</ul>
 					</nav>
 					<ul class="tools-nav">
-						<li class="items"><a href="cart.html"><span>2</span> Items, <strong>$599.00</strong></a></li>
+						<li class="items"><a href="cart.php"><span>2</span> Items, <strong>$599.00</strong></a></li>
 						<li class="login"><a href="#">Login</a> / <a href="#">register</a></li>
 					</ul>
 				</div>
@@ -45,8 +45,8 @@
 			<section class="bar">
 				<div class="bar-frame">
 					<ul class="breadcrumbs">
-						<li><a href="index.html">Home</a></li>
-						<li><a href="products.html">Jackets</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="products.php">Jackets</a></li>
 						<li>Deserunt Mollitia</li>
 					</ul>
 				</div>
